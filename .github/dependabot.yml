@@ -10,6 +10,6 @@ updates:
     groups:
       all-dependencies:
         patterns:
-          - "*"
+          - '*'
     schedule:
       interval: monthly
